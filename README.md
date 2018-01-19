@@ -5,7 +5,7 @@
 * Computing Environment - computingEnvironment
     * Contains vagrant file with customized options
     * Contains changes to index.js and package.json after installing node.js
-* Screencast - pipeline/App
+* Pipeline - pipeline/App
     * Contains hook_demo (a simple hook)
     * Contains simple pipeline. 
         * deploy/production.git contains post-receive file
