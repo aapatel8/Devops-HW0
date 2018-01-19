@@ -1,0 +1,4 @@
+#!/bin/sh
+GIT_WORK_TREE=/c/Users/Akshit/Desktop/School/CSC517/App/deploy/production-www/ git checkout -f
+echo "Pushed to production"
+npm install
